@@ -1,9 +1,72 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Trang-1" id="7hOHKn8TqsQzAc5nMB9-">
-    <mxGraphModel>
+    <mxGraphModel dx="2607" dy="1622" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="f72GHgOV_BdPcz2RNhl4-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f72GHgOV_BdPcz2RNhl4-1" target="f72GHgOV_BdPcz2RNhl4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f72GHgOV_BdPcz2RNhl4-1" value="Bắt đầu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f72GHgOV_BdPcz2RNhl4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f72GHgOV_BdPcz2RNhl4-2" target="f72GHgOV_BdPcz2RNhl4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f72GHgOV_BdPcz2RNhl4-2" value="Thực hiện tra cứu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="359" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f72GHgOV_BdPcz2RNhl4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f72GHgOV_BdPcz2RNhl4-4" target="f72GHgOV_BdPcz2RNhl4-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="571" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="529" y="517" />
+              <mxPoint x="529" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f72GHgOV_BdPcz2RNhl4-7" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f72GHgOV_BdPcz2RNhl4-6">
+          <mxGeometry x="0.1495" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f72GHgOV_BdPcz2RNhl4-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f72GHgOV_BdPcz2RNhl4-4" target="f72GHgOV_BdPcz2RNhl4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f72GHgOV_BdPcz2RNhl4-16" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f72GHgOV_BdPcz2RNhl4-9">
+          <mxGeometry x="0.0032" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f72GHgOV_BdPcz2RNhl4-4" value="Hệ thống" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="358.5" y="471" width="107" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="f72GHgOV_BdPcz2RNhl4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f72GHgOV_BdPcz2RNhl4-8" target="f72GHgOV_BdPcz2RNhl4-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="197" y="657.3333740234375" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="197" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f72GHgOV_BdPcz2RNhl4-8" value="Thông tin tra cứu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="487" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f72GHgOV_BdPcz2RNhl4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f72GHgOV_BdPcz2RNhl4-10" target="f72GHgOV_BdPcz2RNhl4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f72GHgOV_BdPcz2RNhl4-10" value="Kết thúc" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f72GHgOV_BdPcz2RNhl4-12" value="In và xuất danh sách" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="626" width="134" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="f72GHgOV_BdPcz2RNhl4-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f72GHgOV_BdPcz2RNhl4-17" target="f72GHgOV_BdPcz2RNhl4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f72GHgOV_BdPcz2RNhl4-17" value="Xem kết quả tra cứu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="357" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
